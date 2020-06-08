@@ -42,3 +42,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+steps:
+\$ yarn create react-app --template typescript .
+\$ yarn add eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react -D
+\$ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
