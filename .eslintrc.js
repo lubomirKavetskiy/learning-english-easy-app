@@ -18,4 +18,10 @@ module.exports = {
     // Place to specify ESLint rules. Can be used to overwrite rules specified from the extended configs
     // e.g. "@typescript-eslint/explicit-function-return-type": "off",
   },
+  //fix 'Warning: React version not specified in eslint-plugin-react settings'
+  settings: {
+    react: {
+      version: 'latest',
+    },
+  },
 }
