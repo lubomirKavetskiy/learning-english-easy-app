@@ -47,3 +47,4 @@ steps:
 \$ yarn create react-app --template typescript .
 \$ yarn add eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react -D
 \$ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+\$ npx mrm lint-staged
