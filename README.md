@@ -43,8 +43,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-steps:
-\$ yarn create react-app --template typescript .
-\$ yarn add eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react -D
-\$ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
-\$ npx mrm lint-staged
+.eslintcash file ?
